@@ -1,0 +1,19 @@
+        @media screen and (max-width: 750px) {
+            .calculator-grid {
+                grid-template-columns: repeat(4, 105px);
+                grid-template-rows: minmax(185px, auto) repeat(5, 120px);
+            }
+        }
+        
+        @media screen and (max-width: 460px) {
+            .calculator-grid {
+                grid-template-columns: repeat(4, 75px);
+                grid-template-rows: minmax(185px, auto) repeat(5, 80px);
+            }
+            .output .previous-operand {
+                font-size: 2.5rem;
+            }
+            .output .current-operand {
+                font-size: 3.5rem;
+            }
+        }
