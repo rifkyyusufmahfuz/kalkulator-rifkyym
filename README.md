@@ -1,2 +1,2 @@
 # kalkulator-rifkyym
-Ini adalah Tugas Individu FGA 2022 HTML & CSS - Frontend Kelas F
+Ini adalah Tugas Proyek Individu FGA 2022 HTML & CSS - Frontend Kelas F
