@@ -1,2 +1,2 @@
 # kalkulator-rifkyym
-Ini adalah Tugas Proyek Tim A28 FGA 2022 HTML & CSS - Frontend Kelas F
+Ini adalah Tugas Individu FGA 2022 HTML & CSS - Frontend Kelas F
