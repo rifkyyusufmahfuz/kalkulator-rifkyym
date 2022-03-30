@@ -1,2 +1,2 @@
 # kalkulator-rifkyym
-Kalkulator by Rifky Yusuf Mahfuz
+Ini adalah Tugas Proyek Tim A28 FGA 2022 HTML & CSS - Frontend Kelas F
