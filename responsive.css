@@ -11,9 +11,9 @@
                 grid-template-rows: minmax(185px, auto) repeat(5, 80px);
             }
             .output .previous-operand {
-                font-size: 2.5rem;
+                font-size: 2rem;
             }
             .output .current-operand {
-                font-size: 3.5rem;
+                font-size: 2.5rem;
             }
         }
